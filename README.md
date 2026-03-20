@@ -1,2 +1,3 @@
-# core-health-tracker-wyk6
-Automated issue comment bot repository
+# Core Health Tracker Wyk6
+
+Automated issue comment bot repository.
